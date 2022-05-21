@@ -1,0 +1,8 @@
+SQL 기본 순서
+1. SELECT
+2. FROM 
+3. WHERE
+4. GROUP BY
+5. ORDER BY
+6. LIMIT
+
